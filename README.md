@@ -138,10 +138,18 @@ VeriBot/
 - HTML report generation with interactive visualizations
 - Integration with CI/CD pipelines
 
+## Some Images
+
+![alt text](runnerScript.png)
+![alt text](TestResults.png)
+![alt text](csvTestResults.png)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## About
+
+
 
 Created by @antonyga for Q-Aware Labs - ISTQB Certified AI Software Tester, specializing in AI system validation and prompt engineering.
