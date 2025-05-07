@@ -18,7 +18,7 @@ VeriBot is a lightweight, configurable framework for automated testing of AI lan
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/VeriBot.git
+git clone https://github.com/antonyga/VeriBot.git
 cd VeriBot
 
 # Install dependencies
@@ -144,4 +144,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## About
 
-Created by [Your Name] - a certified software tester with ISTQB Fundamentals and ISTQB AI-Testing certifications, specializing in AI system validation and prompt engineering.
+Created by @antonyga for Q-Aware Labs - ISTQB Certified AI Software Tester, specializing in AI system validation and prompt engineering.
