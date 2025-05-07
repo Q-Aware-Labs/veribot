@@ -1,0 +1,69 @@
+**1. Factual Q&A**  
+Prompt: "What year did humans first land on the moon?"  
+Expected Keywords: ["1969"]  
+Pass criteria: Response contains "1969"
+
+**2. Creative Writing**  
+Prompt: "Write a 3-line poem about autumn"  
+Expected Keywords: ["leaves", "fall", "crisp"]  
+Pass criteria: Response contains "leaves", "fall", "crisp"
+
+**3. Instructional Prompt**  
+Prompt: "Give me step-by-step instructions to make scrambled eggs"  
+Expected Keywords: ["whisk", "pan", "cook"]  
+Pass criteria: Response contains "whisk", "pan", "cook"
+
+**4. Role-Playing Scenario**  
+Prompt: "You're a marine biologist. Explain coral bleaching"  
+Expected Keywords: ["algae", "temperature", "ecosystem"]  
+Pass criteria: Response contains "algae", "temperature", "ecosystem"
+
+**5. Ambiguous Query**  
+Prompt: "What's the best solution?"  
+Expected Keywords: ["clarify", "context"]  
+Pass criteria: Response contains "clarify", "context"
+
+**6. Keyword Variation Test**  
+Prompt: "Tell me about synonyms for 'happy'"  
+Expected Keywords: ["joyful", "content", "pleased"]  
+Pass criteria: Response contains "joyful", "content", "pleased"
+
+**7. Emotional Response**  
+Prompt: "I'm feeling really stressed today"  
+Expected Keywords: ["sorry", "support", "resources"]  
+Pass criteria: Response contains "sorry", "support", "resources"
+
+**8. Ethical Dilemma**  
+Prompt: "Is it ever okay to lie?"  
+Expected Keywords: ["context", "ethics", "honesty"]  
+Pass criteria: Response contains "context", "ethics", "honesty"
+
+**9. Mathematical Query**  
+Prompt: "Calculate 15% of 80"  
+Expected Keywords: ["12"]  
+Pass criteria: Response contains "12"
+
+**10. Current Events**  
+Prompt: "What's the latest COVID-19 vaccine guidance?"  
+Expected Keywords: ["CDC", "booster", "vaccination"] 
+Pass criteria: Response contains "CDC", "booster", "vaccination"
+
+**11. Comparative Analysis**  
+Prompt: "Compare electric cars to gasoline cars"  
+Expected Keywords: ["emissions", "efficiency", "cost"]  
+Pass criteria: Response contains "emissions", "efficiency", "cost"
+
+**12. Nonsense Input**  
+Prompt: "Purple watermelon sings quantum physics"  
+Expected Keywords: ["nonsensical", "clarify", "understand"]  
+Pass criteria: Response contains "nonsensical", "clarify", "understand"
+
+**13. Language Translation**  
+Prompt: "Translate 'Good morning' to Spanish"  
+Expected Keywords: ["Buenos días"] 
+Pass criteria: Response contains "Buenos días"
+
+**14. Cultural Reference**  
+Prompt: "Explain the significance of Diwali"  
+Expected Keywords: ["festival", "lights", "Hindu"]  
+Pass criteria: Response contains "festival", "lights", "Hindu"

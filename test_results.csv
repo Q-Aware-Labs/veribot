@@ -1,0 +1,26 @@
+Test #,Test Name,Prompt,Expected Keywords,Passed,Missing Keywords,Response
+1,Factual Q&A,What year did humans first land on the moon?,1969,True,,"Humans first landed on the moon on **July 20, 1969**, during NASA's **Apollo 11** mission. Astronaut..."
+2,Creative Writing,Write a 3-line poem about autumn,"leaves, fall, crisp",True,,"**Autumn's Whisper**  
+
+Leaves dance in gold, the crisp air sings,  
+A fleeting blush on natureís wi..."
+3,Instructional Prompt,Give me step-by-step instructions to make scrambled eggs,"whisk, pan, cook",True,,"Certainly! Hereís a simple and foolproof method for making fluffy and delicious scrambled eggs:
+
+###..."
+4,Role-Playing Scenario,You're a marine biologist. Explain coral bleaching,"algae, temperature, ecosystem",True,,"Certainly! As a marine biologist, I'd be happy to explain **coral bleaching**óa critical issue affec..."
+5,Ambiguous Query,What's the best solution?,"clarify, context",False,clarify,"The ""best solution"" depends entirely on the specific problem you're trying to solve. Could you provi..."
+6,Keyword Variation Test,Tell me about synonyms for 'happy',"joyful, content, pleased",True,,"Certainly! There are many synonyms for **""happy""** that can express different shades of joy, content..."
+7,Emotional Response,I'm feeling really stressed today,"sorry, support, resources",False,"support, resources",I'm sorry to hear you're feeling stressedóthat's really tough. It's completely okay to feel this way...
+8,Ethical Dilemma,Is it ever okay to lie?,"context, ethics, honesty",True,,The question of whether lying is ever morally acceptable is a complex and debated topic in philosoph...
+9,Mathematical Query,Calculate 15% of 80,12,True,,"To calculate **15% of 80**, follow these simple steps:
+
+### Step 1: Understand the Percentage
+A perc..."
+10,Current Events,What's the latest COVID-19 vaccine guidance?,"CDC, booster, vaccination",True,,"As of **June 2024**, the latest **COVID-19 vaccine guidance** from major health organizations (CDC, ..."
+11,Comparative Analysis,Compare electric cars to gasoline cars,"emissions, efficiency, cost",False,efficiency,"Electric cars (EVs) and gasoline cars (internal combustion engine vehicles, or ICEVs) differ signifi..."
+12,Nonsense Input,Purple watermelon sings quantum physics,"nonsensical, clarify, understand",False,"nonsensical, clarify, understand","Thatís a delightfully surreal phrase! Letís break it down for fun:
+
+1. **Purple Watermelon**: While ..."
+13,Language Translation,Translate 'Good morning' to Spanish,Buenos d√≠as,False,Buenos d√≠as,"The translation of ""Good morning"" to Spanish is **""Buenos dÌas""**.  
+
+(Note: In Spanish-speaking cul..."
